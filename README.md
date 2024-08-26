@@ -1,1 +1,1 @@
-# Credit-Card-Customer-Churn-Prediction
+# Deep Learning Mini Projects
